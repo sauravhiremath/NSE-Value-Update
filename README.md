@@ -28,7 +28,7 @@ My project, appends the values at user specified location, thus able to view the
 <ul>
   <li>Do, the <b>mathematical calculations</b> on above data and append them into the file.
   <li>More <b>User Friendly</b> and <b>faster.</b>
-  <li><b>Google Slides</b> Integration.
+  <li><b>Google Sheets</b> Integration.
   <li>More varied Data Addition into the file.
 </ul>
 
