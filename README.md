@@ -21,6 +21,9 @@ My project, appends the values at user specified location, thus able to view the
     </ul>
 </ol>
 
+## Working Model
+<a href="https://ibb.co/8cz21xR"><img src="https://i.ibb.co/6Bvbjtp/NSE-Index-1.png" alt="NSE-Index-1" border="0" width="60%"></a>
+
 ## Next Update Log
 <ul>
   <li>Do, the <b>mathematical calculations</b> on above data and append them into the file.
